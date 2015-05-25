@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\bin\Debug\01.Class Student.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\bin\Debug\01.Class Student.exe
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\bin\Debug\01.Class Student.pdb
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\obj\Debug\01.Class Student.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\obj\Debug\01.Class Student.exe
+c:\users\elena\documents\visual studio 2013\Projects\07.FunctionalProgramming\01.Class Student\obj\Debug\01.Class Student.pdb
